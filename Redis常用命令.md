@@ -35,3 +35,4 @@ lpop | lpop key-name | 移除并返回列表最左端的元素
 lindex | lindex key-name offset | 返回列表中偏移量为offset的元素
 lrange | lrange key-name start end | 返回列表从start偏移量到end偏移量范围内的所有元素，其中偏移量为start和偏移量为end的元素也会包含在被返回的元素之内
 ltrim | ltrim key-name start end | 队列表进行修剪，只保留从start偏移量到end偏移量范围内的元素，其中偏移量为start和偏移量为end额元素也会被保留
+未完待续...
